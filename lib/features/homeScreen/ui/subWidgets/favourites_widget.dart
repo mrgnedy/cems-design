@@ -70,6 +70,7 @@ class BuildFavourite extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(meals[index].name),
+                                  12.vPad,
                               Row(
                                 children: [
                                   Text(

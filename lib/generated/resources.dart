@@ -4,6 +4,10 @@
 class R {
   const R._();
 
+  /// ![preview](file:///Users/sarahsalem/Desktop/ostazAhmed/Cems-Task/resto/assets/images/2.0x/arrow.png)
+  static const String ASSETS_IMAGES_2_0X_ARROW_PNG =
+      'assets/images/2.0x/arrow.png';
+
   /// ![preview](file:///Users/sarahsalem/Desktop/ostazAhmed/Cems-Task/resto/assets/images/2.0x/carousel_image.png)
   static const String ASSETS_IMAGES_2_0X_CAROUSEL_IMAGE_PNG =
       'assets/images/2.0x/carousel_image.png';
@@ -44,6 +48,10 @@ class R {
   static const String ASSETS_IMAGES_2_0X_MAGNIFIER_PNG =
       'assets/images/2.0x/magnifier.png';
 
+  /// ![preview](file:///Users/sarahsalem/Desktop/ostazAhmed/Cems-Task/resto/assets/images/2.0x/meal.png)
+  static const String ASSETS_IMAGES_2_0X_MEAL_PNG =
+      'assets/images/2.0x/meal.png';
+
   /// ![preview](file:///Users/sarahsalem/Desktop/ostazAhmed/Cems-Task/resto/assets/images/2.0x/refresh.png)
   static const String ASSETS_IMAGES_2_0X_REFRESH_PNG =
       'assets/images/2.0x/refresh.png';
@@ -59,6 +67,10 @@ class R {
   /// ![preview](file:///Users/sarahsalem/Desktop/ostazAhmed/Cems-Task/resto/assets/images/2.0x/star.png)
   static const String ASSETS_IMAGES_2_0X_STAR_PNG =
       'assets/images/2.0x/star.png';
+
+  /// ![preview](file:///Users/sarahsalem/Desktop/ostazAhmed/Cems-Task/resto/assets/images/3.0x/arrow.png)
+  static const String ASSETS_IMAGES_3_0X_ARROW_PNG =
+      'assets/images/3.0x/arrow.png';
 
   /// ![preview](file:///Users/sarahsalem/Desktop/ostazAhmed/Cems-Task/resto/assets/images/3.0x/carousel_image.png)
   static const String ASSETS_IMAGES_3_0X_CAROUSEL_IMAGE_PNG =
@@ -100,6 +112,10 @@ class R {
   static const String ASSETS_IMAGES_3_0X_MAGNIFIER_PNG =
       'assets/images/3.0x/magnifier.png';
 
+  /// ![preview](file:///Users/sarahsalem/Desktop/ostazAhmed/Cems-Task/resto/assets/images/3.0x/meal.png)
+  static const String ASSETS_IMAGES_3_0X_MEAL_PNG =
+      'assets/images/3.0x/meal.png';
+
   /// ![preview](file:///Users/sarahsalem/Desktop/ostazAhmed/Cems-Task/resto/assets/images/3.0x/refresh.png)
   static const String ASSETS_IMAGES_3_0X_REFRESH_PNG =
       'assets/images/3.0x/refresh.png';
@@ -115,6 +131,9 @@ class R {
   /// ![preview](file:///Users/sarahsalem/Desktop/ostazAhmed/Cems-Task/resto/assets/images/3.0x/star.png)
   static const String ASSETS_IMAGES_3_0X_STAR_PNG =
       'assets/images/3.0x/star.png';
+
+  /// ![preview](file:///Users/sarahsalem/Desktop/ostazAhmed/Cems-Task/resto/assets/images/arrow.png)
+  static const String ASSETS_IMAGES_ARROW_PNG = 'assets/images/arrow.png';
 
   /// ![preview](file:///Users/sarahsalem/Desktop/ostazAhmed/Cems-Task/resto/assets/images/carousel_image.png)
   static const String ASSETS_IMAGES_CAROUSEL_IMAGE_PNG =
@@ -152,6 +171,9 @@ class R {
   /// ![preview](file:///Users/sarahsalem/Desktop/ostazAhmed/Cems-Task/resto/assets/images/magnifier.png)
   static const String ASSETS_IMAGES_MAGNIFIER_PNG =
       'assets/images/magnifier.png';
+
+  /// ![preview](file:///Users/sarahsalem/Desktop/ostazAhmed/Cems-Task/resto/assets/images/meal.png)
+  static const String ASSETS_IMAGES_MEAL_PNG = 'assets/images/meal.png';
 
   /// ![preview](file:///Users/sarahsalem/Desktop/ostazAhmed/Cems-Task/resto/assets/images/refresh.png)
   static const String ASSETS_IMAGES_REFRESH_PNG = 'assets/images/refresh.png';
