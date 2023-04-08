@@ -27,6 +27,7 @@ class BuildCarousel extends StatelessWidget {
               .toList(),
           options: CarouselOptions(
             aspectRatio: 3,
+            autoPlay: true,
             onPageChanged: (index, reason) => indicator.value = index,
           ),
         ),
